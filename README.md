@@ -11,6 +11,6 @@ The repository conatins:
   2. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
   3. 'columns_description.csv' is data dictionary which describes the meaning of the variables. 
   
-A pdf file conains overall approach of the analysis in a presentation. The problem statement and the analysis approach briefly. Approach to identify the missing data and what  methods were used to deal with it. 
+A pdf file contains overall approach of the analysis in a presentation. The problem statement and the analysis approach briefly. Approach to identify the missing data and what  methods were used to deal with it. 
 
 
